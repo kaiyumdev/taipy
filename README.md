@@ -12,15 +12,31 @@
 
 <div align="center">
 
-  ![Version](https://img.shields.io/badge/Version-v1.1.2-blue) 
-  ![License](https://img.shields.io/badge/License-Apache%202.0-green)
-  ![Python](https://img.shields.io/badge/Python-3.8-yellow)
-  
+  <a href="https://github.com/your-repo/releases" target="_blank">
+    <img alt="Version" src="https://img.shields.io/badge/Version-1.1.2-blue">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+    <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/downloads/release/python-380/" target="_blank">
+    <img alt="Python Version" src="https://img.shields.io/badge/Python-3.8-blue">
+  </a>
+
   <br><br>
 
-  [![Explore the Docs](https://img.shields.io/badge/-📚%20Explore%20the%20Docs-blue)](https://docs.taipy.io/en/latest/)
-  [![Discord Support](https://img.shields.io/badge/-🫱🏼‍🫲🏼%20Discord%20Support-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/SJyz2VJGxV)
-  [![Demos & Examples](https://img.shields.io/badge/-👀%20Demos%20&%20Examples-orange)](https://docs.taipy.io/en/latest/gallery/)
+  <a href="https://docs.taipy.io/en/latest/" target="_blank">
+    <img alt="Explore the Docs" src="https://img.shields.io/badge/-📚%20Explore%20the%20Docs-blue">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/invite/SJyz2VJGxV" target="_blank">
+    <img alt="Discord Support" src="https://img.shields.io/badge/-Discord%20Support-5865F2?logo=discord&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://docs.taipy.io/en/latest/gallery/" target="_blank">
+    <img alt="Demos & Examples" src="https://img.shields.io/badge/-👀%20Demos%20&%20Examples-orange">
+  </a>
 
 </div>
 
