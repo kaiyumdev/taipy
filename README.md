@@ -10,34 +10,30 @@
   </a>
 </div>
 
-<div align="center">
-
-  <a href="https://github.com/your-repo/releases" target="_blank">
-    <img alt="Version" src="https://img.shields.io/badge/Version-1.1.2-blue">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-    <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/downloads/release/python-380/" target="_blank">
-    <img alt="Python Version" src="https://img.shields.io/badge/Python-3.8-blue">
-  </a>
-
-  <br><br>
-
-  <a href="https://docs.taipy.io/en/latest/" target="_blank">
-    <img alt="Explore the Docs" src="https://img.shields.io/badge/-📚%20Explore%20the%20Docs-blue">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/invite/SJyz2VJGxV" target="_blank">
-    <img alt="Discord Support" src="https://img.shields.io/badge/-Discord%20Support-5865F2?logo=discord&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://docs.taipy.io/en/latest/gallery/" target="_blank">
-    <img alt="Demos & Examples" src="https://img.shields.io/badge/-👀%20Demos%20&%20Examples-orange">
-  </a>
-
+<div align="center" style="background-color:#0b0b0e; padding: 20px; border-radius: 8px; width: fit-content; margin: auto;">
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <a href="https://github.com/your-repo/releases" target="_blank">
+      <img alt="Version" src="https://img.shields.io/badge/Version-v4.0.0-ff371a?style=for-the-badge&labelColor=0b0b0e&color=ff371a">
+    </a>
+    <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+      <img alt="License" src="https://img.shields.io/badge/License-Apache--2.0-ff371a?style=for-the-badge&labelColor=0b0b0e&color=ff371a">
+    </a>
+    <a href="https://www.python.org/downloads/" target="_blank">
+      <img alt="Python Versions" src="https://img.shields.io/badge/Python-3.9%20|%203.10%20|%203.11%20|%203.12-ff371a?style=for-the-badge&labelColor=0b0b0e&color=ff371a">
+    </a>
+  </div>
+  <div style="margin-top: 20px;"></div>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <a href="https://docs.taipy.io/en/latest/" target="_blank">
+      <img alt="Explore the Docs" src="https://img.shields.io/badge/📚-Explore the Docs-ff371a?style=for-the-badge&labelColor=0b0b0e&color=ff371a">
+    </a>
+    <a href="https://docs.taipy.io/en/latest/gallery/" target="_blank">
+      <img alt="Demos & Examples" src="https://img.shields.io/badge/👀-Demos & Examples-ff371a?style=for-the-badge&labelColor=0b0b0e&color=ff371a">
+    </a>
+    <a href="https://discord.com/invite/SJyz2VJGxV" target="_blank">
+  <img alt="Discord Support" src="https://img.shields.io/badge/Discord%20Support-ff371a?style=for-the-badge&labelColor=0b0b0e&logo=discord&logoColor=white">
+</a>
+  </div>
 </div>
 
 
